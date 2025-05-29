@@ -73,6 +73,7 @@ git merge nombre_rama        # Fusionar con la rama actual
 git diff                     # Ver diferencias
 git remote add origin URL    # Conectar con repositorio remoto
 git push -u origin main      # Subir cambios a GitHub
+git pull origin {rama}
 ```
 
 ---
