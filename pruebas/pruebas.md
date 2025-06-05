@@ -42,7 +42,7 @@ El proceso típicamente funciona así:
 
 ## Nota importante
 
-💡 **Cobertura alta no significa que las pruebas sean buenas.**  
+**Cobertura alta no significa que las pruebas sean buenas.**  
 Podrías cubrir todas las líneas, pero no verificar que el código se comporte como esperas. Por eso la cobertura es una métrica de apoyo, pero no una garantía de calidad.
 
 ---
