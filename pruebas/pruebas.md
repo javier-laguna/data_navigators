@@ -1,7 +1,3 @@
-Pruebas
-
-En este documento se presenta una visión general de las pruebas de software necesarias para garantizar la calidad y confiabilidad del código. Se describen las pruebas unitarias.
-
 ## Pruebas unitarias
 
 Las **pruebas unitarias** son aquellas que validan el comportamiento de componentes individuales de la aplicación (funciones, métodos, clases) de manera aislada. Son fundamentales porque:
