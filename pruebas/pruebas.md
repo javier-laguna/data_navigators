@@ -36,5 +36,6 @@ pytest --cov=paquete_suma
 
 ## Ejecucion generando reporte HTML
 ```bash
-pytest --cov=paquete_suma --cov-report=html tests/```
+pytest --cov=paquete_suma --cov-report=html tests/
+```
 
